@@ -1,1 +1,29 @@
+# .gitignore
+
+# Bỏ qua môi trường ảo Python (venv, .venv, env)
+venv/
 .venv/
+env/
+
+# Bỏ qua file CUDA
+*.run
+
+# Bỏ qua biến môi trường
+.env
+.env.local
+
+# Bỏ qua file cache/compile Python
+__pycache__/
+*.py[cod]
+
+# Bỏ qua thư mục IDE (VSCode, PyCharm)
+.vscode/
+.idea/
+
+# .gitignore
+
+# Exclude JAR files & reports
+*.jar
+*.html
+
+# (Keep your existing rules for venv, CUDA, etc.)
