@@ -27,4 +27,4 @@ __pycache__/
 *.pkl
 *.html
 
-# (Keep your existing rules for venv, CUDA, etc.)
+# (Keep your existing rules for venv, CUDA, etc.)report.html
