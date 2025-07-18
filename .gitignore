@@ -24,6 +24,7 @@ __pycache__/
 
 # Exclude JAR files & reports
 *.jar
-*.html
+*.pkl
+# *.html
 
 # (Keep your existing rules for venv, CUDA, etc.)
